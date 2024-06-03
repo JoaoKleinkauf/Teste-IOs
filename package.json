@@ -9,8 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@wdio/allure-reporter": "^8.38.0",
+    "@wdio/sauce-service": "^8.38.0",
+    "allure-commandline": "^2.29.0",
     "appium": "^2.6.0",
     "appium-xcuitest-driver": "^7.17.0",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "wdio": "^6.0.1",
+    "wdio-video-reporter": "^5.2.0"
   }
 }
