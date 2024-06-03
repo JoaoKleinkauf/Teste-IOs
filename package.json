@@ -1,0 +1,16 @@
+{
+  "name": "mdulo-29",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^2.6.0",
+    "appium-xcuitest-driver": "^7.17.0",
+    "dotenv": "^16.4.5"
+  }
+}
